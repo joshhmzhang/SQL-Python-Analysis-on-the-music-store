@@ -1,3 +1,3 @@
 # SQL-Python-Analysis-on-the-music-store
-<img src="map.png" width="700">
+<img src="map.png" width="500">
 
